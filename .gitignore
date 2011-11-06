@@ -1,0 +1,7 @@
+private.txt
+mona.txt
+tom.txt
+*.DS_Store
+/application.macosx
+/application.windows
+/application.linux
